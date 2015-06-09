@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=AronFlat 0.1
+Comment=A modern flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=AronFlat
+MetacityTheme=AronFlat
+ButtonLayout=:minimize,maximize,close
